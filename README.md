@@ -1,4 +1,5 @@
 Unified Investment Platform (UIP)
+
 A full‑stack personal finance & investment manager that lets clients view, plan, and act on all aspects of their financial life in one place.
 Built with Spring Boot (Java 17) + SQLite on the back‑end and React + Vite + Chart.js on the front‑end, the application demonstrates a real‑world end‑to‑end workflow covering:
 
